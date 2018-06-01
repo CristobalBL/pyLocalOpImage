@@ -4,10 +4,9 @@ This repository implement local normalization and local equalization over images
 
 usage; python3 op_image.py <path_to_image> <window_height> <window_width>
  
-## Example
+## Output example
 
 ![alt text](https://github.com/CristobalBL/pyLocalOpImage/blob/master/out.png)
-
 
 **Built With**
 
