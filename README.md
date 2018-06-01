@@ -11,6 +11,7 @@ usage; python3 op_image.py <path_to_image> <window_height> <window_width>
 **Built With**
 
 * [Python 3](https://www.python.org) - Python is a programming language that lets you work more quickly and integrate your systems more effectively.
+* [NumPy](http://www.numpy.org/) - NumPy is the fundamental package for scientific computing with Python
 * [OpenCV](https://www.opencv.org) - OpenCV (Open Source Computer Vision Library) is released under a BSD license and hence it’s free for both academic and commercial use.
 
 ## Authors
